@@ -1,0 +1,21 @@
+{
+    "author": [
+		"Kael (hg_dreamer)"
+    ],
+    "install_msg": "BitBurner Game for boring days",
+    "name": "ArtistLinks",
+    "disabled": true,
+    "short": "Artist link Cog to show Artist Websites and Socials",
+	"install_msg": "Thank you for installing! Use the `[p]artistlinks` or `[p]al` command to see a list of commands",
+    "description": "Sends an embed with links to the artists socials and websites",
+    "tags": [
+        "artist",
+        "websites",
+        "socials"
+    ],
+    "requirements": [
+        ""
+    ],
+    "min_bot_version": "3.5.0",
+    "hidden": false
+}

@@ -1,0 +1,20 @@
+{
+    "author": [
+		"Kael (hg_dreamer)"
+    ],
+    "install_msg": "BitBurner Game for boring days",
+    "name": "BitBurner",
+    "disabled": true,
+    "short": "Game cog of a DMR free game hosted on HellsGate Gaming",
+    "description": "A Hacking simulator game which is played with programming in Javascript",
+    "tags": [
+        "game",
+        "bitburner",
+        "hacking"
+    ],
+    "requirements": [
+        ""
+    ],
+    "min_bot_version": "3.5.0",
+    "hidden": false
+}
