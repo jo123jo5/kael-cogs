@@ -1,0 +1,20 @@
+{
+    "author": [
+		"Kael (hg_dreamer)"
+    ],
+    "install_msg": "ScamDetect successfully installed",
+    "name": "ScamDetect",
+    "disabled": true,
+    "short": "ScamDetect Cog to Scan for Scammers",
+	"install_msg": "Thank you for installing! Use the `[p]scamdetect` or `[p]sd` command to see a list of commands",
+    "description": "Checks for account age and interaction in a server for a set amount of time and notifies the server if a user is a suspected scammer",
+    "tags": [
+        "scam",
+        "detector"
+    ],
+    "requirements": [
+        ""
+    ],
+    "min_bot_version": "3.5.0",
+    "hidden": false
+}
