@@ -1,0 +1,20 @@
+{
+    "author": [
+		"Kael (hg_dreamer)"
+    ],
+    "install_msg": "Derpibooru successfully installed",
+    "name": "Derpibooru",
+    "disabled": true,
+    "short": "Derpibooru Cog to Send random Art",
+	"install_msg": "Thank you for installing! Use the `[p]derpi` or `[p]db` command to see a list of commands",
+    "description": "looks up a random image given by the tags and sends it to the channel",
+    "tags": [
+        "Derpibooru",
+        "random"
+    ],
+    "requirements": [
+        ""
+    ],
+    "min_bot_version": "3.5.0",
+    "hidden": false
+}
